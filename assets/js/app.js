@@ -92,7 +92,8 @@ initapp=()=>{
             <h2>Seu e-commerce sem limites   </h2>
             <p>Obtenha sua loja completa com integração de pagamento e painel administrativo, receba pedidos sem limites.</p>
             <a href='curriculo-vinicius-araujo-harmony.pdf' target='_blank' class="btn primary ">
-                 Comprar loja agora <i class="fa-regular fa-file-pdf"></i>
+                 Comprar loja agora <i class="fa-brands fa-whatsapp"></i>
+
             </a>
          </div>
         </div>
@@ -124,7 +125,7 @@ initapp=()=>{
     <div class='portfolio' id='portfolio'>
        <div class='text-content'>
           <span class='title'></span>
-          <h3> Portfólio</h3>
+          <h3> Painel Intuítivo</h3>
        </div>
        <div class='tabs-portfolio'>
           <div class="tab">
@@ -133,7 +134,12 @@ initapp=()=>{
           </div>
           <div id="apps" class="tabcontent">
                 
-                
+                <div id='gallery' class='screenshotsgallery'>
+                  <div class='container-fluid'>
+                  <div class='container-img'>
+                     <img src='assets/img/screens/img1.png' alt=''> 
+                  </div>
+                </div>
          
           </div>
           <div id="brand" class="tabcontent">

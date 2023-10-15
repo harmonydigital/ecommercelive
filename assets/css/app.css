@@ -149,7 +149,7 @@ a{
 .lojaMockup {
     max-width: 850px;
     margin: 0 auto;
-    display: flex;
+    display: none;
 }
 .mockupDesk {
     height: 80vh;
@@ -311,6 +311,10 @@ a.btn.primary:hover {
     color: white;
     font-weight: 500;
 }
+.screenshotsgallery > div { 
+    display: flex;
+    justify-content: center;
+}
 span.title::before {
     content: '';
     display: block;
@@ -451,6 +455,8 @@ a.btn-sucess svg {
     }
     .menu {
         width: 50%;
+        display: flex;
+        justify-content: flex-end;
     }
     .display h1 {
         font-size: 2.3rem;
