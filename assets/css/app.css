@@ -311,10 +311,7 @@ a.btn.primary:hover {
     color: white;
     font-weight: 500;
 }
-.screenshotsgallery > div { 
-    display: flex;
-    justify-content: center;
-}
+
 span.title::before {
     content: '';
     display: block;

@@ -137,7 +137,7 @@ initapp=()=>{
                 <div id='gallery' class='screenshotsgallery'>
                   <div class='container-fluid'>
                   <div class='container-img'>
-                     <img src='assets/img/screens/img1.png' alt=''> 
+                     <img class='modalToggle' src='assets/img/screens/img1.png' alt=''> 
                   </div>
                 </div>
          
